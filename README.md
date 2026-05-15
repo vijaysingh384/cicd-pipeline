@@ -307,3 +307,6 @@ docker build -t cicd-pipeline-demo . --progress=plain
 **Project By:** [Your Name]  
 **Date:** May 15, 2026  
 **Course:** DevOps and CI/CD Implementation
+
+
+echo "\n## Pipeline Status: Active ✅" >> README.md
