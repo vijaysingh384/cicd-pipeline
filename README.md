@@ -309,3 +309,5 @@ docker build -t cicd-pipeline-demo . --progress=plain
 **Course:** DevOps and CI/CD Implementation
 
 
+
+## Pipeline Status: Active ✅
